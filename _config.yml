@@ -1,0 +1,9 @@
+# Site settings
+title: UK Accountant's Notes
+
+baseurl: site.github.url # the subpath of your site, e.g. /blog/
+url: #"http://youraccountant.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
